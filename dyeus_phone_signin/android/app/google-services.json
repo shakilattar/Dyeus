@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "26662073574",
+    "project_id": "dyeusphonesignin",
+    "storage_bucket": "dyeusphonesignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26662073574:android:63d88667a8afe8ec013727",
+        "android_client_info": {
+          "package_name": "com.example.dyeus_phone_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26662073574-el9mt5bo79ru6krbop1c4s17kkgud5bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dyeus_phone_signin",
+            "certificate_hash": "02758be232aa3f009a998244209b915e8becbff9"
+          }
+        },
+        {
+          "client_id": "26662073574-9i93rv16eietabt5hfo2mjqpjdtfefcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWJBeSTuoOGPnGZrQztoT4SBue5CA4Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26662073574-9i93rv16eietabt5hfo2mjqpjdtfefcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
